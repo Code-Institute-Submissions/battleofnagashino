@@ -2,8 +2,7 @@ body
 {
 	font-family: Verdana;
 	background: url(images/battleofnagashinoinfull.jpg);
-	background-position: right center;
-	background-repeat: no-repeat;
+	background-position: left center;
 }
 
 a
@@ -12,9 +11,20 @@ a
 	color: white;
 }
 
-img
+.smallimg
 {
 	float: right;
+	border-radius: 8px;
+}
+
+.wideimg
+{
+	display: block;	
+	margin-left: auto;	
+	margin-right: auto;
+	width: 80%;
+	border: 1px solid black;
+	box-shadow: 0 0 0.50em 0.50em rgba(0, 0, 0, 0.50);
 	border-radius: 8px;
 }
 
@@ -67,7 +77,6 @@ div.transbox
 	border-radius: 4px;
 }
 
-
 .dropdown-content a 
 {
 	color: black;
@@ -76,12 +85,10 @@ div.transbox
 	display: block;
 }
 
-
 .dropdown-content a:hover
 {
 	background-color: #555; color: white;
 }
-
 
 .dropdown:hover .dropdown-content
 {
