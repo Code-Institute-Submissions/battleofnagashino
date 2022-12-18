@@ -11,6 +11,16 @@ a
 	color: white;
 }
 
+@font-face {
+font-family: "HarukazeSolid";
+src: url("images/HarukazeSolid.otf");
+}
+
+
+h3 {
+font-family: "HarukzeSolid";
+}
+
 .smallimg
 {
 	float: right;
