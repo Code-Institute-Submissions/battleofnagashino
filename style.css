@@ -13,8 +13,8 @@ a
 
 @font-face {
 font-family: "HarukazeSolid";
-src: url("images/HarukazeSolid.otf");
-format("opentype");
+src: url("images/HarukazeSolid.ttf");
+format("truetype");
 }
 
 
