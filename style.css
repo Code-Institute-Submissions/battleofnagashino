@@ -12,14 +12,13 @@ a
 }
 
 @font-face {
-font-family: "HarukazeSolid";
+font-family: "Harukaze Solid";
 src: url("images/HarukazeSolid.ttf");
-format("truetype");
 }
 
 
 h3 {
-font-family: "HarukzeSolid";
+font-family: "Harukze Solid";
 }
 
 .smallimg
