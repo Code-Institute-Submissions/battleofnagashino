@@ -101,6 +101,8 @@ div.shadowbox
 }
 
 footer {
+        padding-top: 10px;
+        padding-bottom: 10px;
         border: 1px solid black;
 	background-color: #555;
 	margin: 15px;
