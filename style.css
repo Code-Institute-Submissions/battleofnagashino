@@ -3,7 +3,8 @@ body
 	font-family: Verdana;
 	background: url(images/battleofnagashinoinfull.jpg);
 	background-position: center;
-	max-width:1000px;
+	max-width:960px;
+	margin: auto;
 }
 
 .cite
