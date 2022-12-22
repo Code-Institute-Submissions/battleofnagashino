@@ -28,6 +28,10 @@ a
 	border-radius: 8px;
 }
 
+p {
+font-size: small;
+}
+
 article
 {
 	padding-right: 15px;
