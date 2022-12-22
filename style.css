@@ -13,6 +13,8 @@ body
 
 .smallimg
 {
+	padding-top: 10px;
+        padding-bottom: 10px;
 	float: right;
 	border-radius: 8px;
 }
@@ -30,7 +32,7 @@ body
 
 p {
 	font-size: 0.90em;
-	text-align: right;
+	text-align: left;
 }
 
 article
