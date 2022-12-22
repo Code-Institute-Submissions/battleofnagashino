@@ -13,10 +13,9 @@ body
 
 .smallimg
 {
-	padding-right: 10px;
-	padding-left: 10px;
+	margin: 6px;
 	float: right;
-	border-radius: 8px;
+	border-radius: 4px;
 }
 
 .wideimg
