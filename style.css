@@ -2,7 +2,7 @@ body {
 	font-family: Verdana;
 	background: url(images/battleofnagashinoinfull.jpg);
 	background-position: center;
-	background-size: 80%;
+	background-size: 80% 80%;
 	max-width:920px;
 	margin: auto;
 }
