@@ -15,7 +15,7 @@ The background image of the site
 
  - The background image is an illustration of the battle of nagashino I used it because its bigger than most device resolutions and brings the site to life a bit more.
   
-![Battle of Nagashino Landing Page](documentation/battleofnagashino.png =250x)
+<img src="documentation/battleofnagashino.png" alt="Battle of Nagashino Landing Page" width="75%"/>
 
 ![Takeda Clan page](documentation/takeda.png)
 
