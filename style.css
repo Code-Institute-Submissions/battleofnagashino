@@ -3,6 +3,7 @@ body {
 	background: url(images/battleofnagashinoinfull.jpg);
 	background-color: #555;
 	background-position: center;
+	background-attachment: fixed;
 	max-width:920px;
 	margin: auto;
 }
