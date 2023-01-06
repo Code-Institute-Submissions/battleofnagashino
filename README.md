@@ -17,11 +17,11 @@ The background image of the site
   
 <img src="documentation/battleofnagashino.png" alt="Battle of Nagashino Landing Page" width="75%"/>
 
-![Takeda Clan page](documentation/takeda.png)
+<img src="documentation/takeda.png" alt="Takeda Clan page" width="75%"/>
 
-![Oda and Tokugawa Clan page](documentation/odatokugawa.png)
+<img src="documentation/odatokugawa.png" alt="Oda and Tokugawa Clan page" width="75%"/>
 
-![Tanegashima page](documentation/tanegashima.png)
+<img src="documentation/tanegashima.png" alt="Tanegashima page" width="75%"/>
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
