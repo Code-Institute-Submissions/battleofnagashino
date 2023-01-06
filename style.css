@@ -1,14 +1,14 @@
 body {
 	font-family: Verdana;
 	background: url(images/battleofnagashinoinfull.jpg);
-/*	background-position: center; */
-	background-size: contain;
+	background-position: center;
+	background-size: auto;
 	max-width:920px;
 	margin: auto;
 }
 
 .cite {
-	font-size: 0.60em;
+	font-size: 0.55em;
 	color: white;
 }
 
