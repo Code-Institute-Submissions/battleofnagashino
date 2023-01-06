@@ -1,3 +1,7 @@
+html {
+	margin: 8px;
+}
+
 body {
 	font-family: Verdana;
 	background: url(images/battleofnagashinoinfull.jpg);
@@ -5,7 +9,7 @@ body {
 	background-position: center;
 	background-attachment: fixed;
 	max-width:920px;
-	margin: 8px;
+	margin: auto;
 }
 
 .cite {
