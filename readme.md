@@ -39,9 +39,9 @@ https://validator.w3.org/
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]()
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkermetically.github.io%2Fbattleofnagashino%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]()
+  - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fkermetically.github.io%2Fbattleofnagashino%2Fstyle.css&usermedium=all&vextwarning=&warning=1)
 
 ### Unfixed Bugs
 
