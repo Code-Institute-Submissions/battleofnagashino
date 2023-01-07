@@ -23,10 +23,6 @@ The background image of the site
 
 <img src="documentation/tanegashima.png" alt="Tanegashima page" width="75%"/>
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
 I would have liked the background image to have been a bit more zoomed out to take adavantage of more high resolution displays
