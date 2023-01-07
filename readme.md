@@ -1,5 +1,7 @@
 # The Battle of Nagashino
 
+https://kermetically.github.io/battleofnagashino/index.html
+
 The Battle of Nagashino is a site where you can learn about the events of the battle in 1573 and the key people involved 
 
 ## Features 
