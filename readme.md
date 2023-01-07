@@ -2,7 +2,7 @@
 
 https://kermetically.github.io/battleofnagashino/index.html
 
-The Battle of Nagashino is a site where you can learn about the events of the battle in 1573 and the key people involved 
+The Battle of Nagashino is a site where you can learn about the events of the battle in 1573 and the key people involved.
 
 ## Features 
 
@@ -11,7 +11,7 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
  - Featured on all four pages, the Navigation Menu includes links to each of the clans and key people and technologies in the battle, and is identical in each page to allow for easy navigation.
  - It will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
- - the color scheme I used was to make it easy to read and also to make it feel more alive
+ - the color scheme I used was to make it easy to read and also to make it feel unique.
 
 The background image of the site
 
@@ -27,7 +27,7 @@ The background image of the site
 
 ### Features Left to Implement
 
-I would have liked the background image to have been a bit more zoomed out to take adavantage of more high resolution displays
+I would have liked the background image to have been a bit more zoomed out to take adavantage of more high resolution displays.
 
 ## Testing 
 
