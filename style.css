@@ -1,12 +1,12 @@
 html {
-	margin: 8px;
-}
-
-body {
 	font-family: Verdana;
 	background: url(images/battleofnagashinoinfull.jpg);
 	background-color: #555;
 	background-position: center;
+	margin: 8px;
+}
+
+body {
 	max-width:920px;
 	margin: auto;
 }
