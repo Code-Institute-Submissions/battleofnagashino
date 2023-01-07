@@ -2,7 +2,7 @@ html {
 	font-family: Verdana;
 	background: url(images/battleofnagashinoinfull.jpg);
 	background-color: #555;
-	background-position: center;
+	background-position: top center;
         background-repeat: no-repeat;
 	margin: 8px;
 }
