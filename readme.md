@@ -33,15 +33,12 @@ I would have liked the background image to have been a bit more zoomed out to ta
 
 I tested this site on an iPhone 12 and a Lenovo ideapad and I also used the below mentioned validators which reminded me to put in the alt text with images.
 
-https://validator.w3.org/
-
-
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkermetically.github.io%2Fbattleofnagashino%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fkermetically.github.io%2Fbattleofnagashino%2Fstyle.css&usermedium=all&vextwarning=&warning=1)
+  - No errors were found when passing through the official [CSS validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fkermetically.github.io%2Fbattleofnagashino%2Fstyle.css&usermedium=all&vextwarning=&warning=1)
 
 ### Unfixed Bugs
 
@@ -56,7 +53,7 @@ https://validator.w3.org/
 
 ## Credits 
 
-Most of the images for the site came from wikimedia commons or wikipedia.
+Most of the images for the site came from wikimedia commons or wikipedia.org.
 
 ### Content 
 
