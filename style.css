@@ -3,7 +3,7 @@ html {
 	background: url(images/battleofnagashinoinfull.jpg);
 	background-color: #555;
 	background-position: left center;
-        background-attachment: scroll;
+        background-attachment: fixed;
 	margin: 8px;
 }
 
