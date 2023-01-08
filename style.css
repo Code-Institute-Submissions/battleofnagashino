@@ -111,19 +111,22 @@ footer {
         text-shadow: 3px 3px rgba(0, 0, 0, 0.8);
 	box-shadow: 0 0 0.50em 0.50em rgba(0, 0, 0, 0.50);
 	border-radius: 8px;
-        color: white;
         text-align: center;
 	font-size: 0.95em;
 }
 footer a:link {
+text-decoration: none;
 color: white;
 }
 footer a:hover {
+text-decoration: none;
 color: white;
 }
 footer a:active {
+text-decoration: none;
 color: white;
 }
 footer a:visited {
+text-decoration: none;
 color: white;
 }
