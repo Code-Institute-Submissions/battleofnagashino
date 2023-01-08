@@ -102,6 +102,14 @@ div.shadowbox {
 	background-color: #555;
 }
 
+footer a:link,
+footer a:visited,
+footer a:hover,
+footer a:active {
+color: white;
+text-decoration: none;
+}
+
 footer {
         padding-top: 10px;
         padding-bottom: 10px;
@@ -113,20 +121,4 @@ footer {
 	border-radius: 8px;
         text-align: center;
 	font-size: 0.95em;
-}
-footer a:link {
-text-decoration: none;
-color: white;
-}
-footer a:hover {
-text-decoration: none;
-color: white;
-}
-footer a:active {
-text-decoration: none;
-color: white;
-}
-footer a:visited {
-text-decoration: none;
-color: white;
 }
