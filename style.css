@@ -1,3 +1,4 @@
+/* this class is to apply an image to the background of the site and under that a color and also to hold the image in place when you scroll unfortunately this isn't supported on iOS. */
 html {
 	font-family: Verdana;
 	background: url(images/battleofnagashinoinfull.jpg);
@@ -11,19 +12,20 @@ body {
 	max-width:920px;
 	margin: auto;
 }
-
+/* this class is to make citation links small so they aren't distracting similar to wikipedia.org. */
 .cite {
 	font-size: 0.65em;
 	color: white;
         text-decoration: none;
 }
-
+/* this class is for the smaller images contained in the shadowbox and to keep the text from flowing over the image. */
 .smallimg {
 	margin: 6px;
 	float: right;
 	border-radius: 4px;
 }
 
+/* this class is for bigger images that have there own box, shadow and rounded corners. */
 .wideimg {
 	display: block;	
 	margin-left: auto;	
@@ -46,7 +48,7 @@ article {
 	color: white;
 	text-shadow: 3px 3px rgba(0, 0, 0, 0.8);
 }
-
+/* This class is to make the content box and surrounding shadow and rounded corners. */
 div.shadowbox {
 	border: 1px solid black;
 	background-color: #555;
@@ -55,7 +57,7 @@ div.shadowbox {
 	border-radius: 8px;
 }
 
-
+/* This is the main navigation button mirroring the same style as the shadowbox. Made with the help of w3schools.com */
 .dropbtn {
 	background-color: #555;
 	color: white;
@@ -67,12 +69,12 @@ div.shadowbox {
 	box-shadow: 0 0 0.50em 0.50em rgba(0, 0, 0, 0.50);
 }
 
-
 .dropdown {
 	position: relative;
 	display: inline-block;
 }
 
+/* The dropdown menu size, shadow and color made with the help of w3schools.com */
 .dropdown-content {
 	display: none;
 	font-size: 0.82em;
@@ -112,6 +114,7 @@ color: white;
 text-decoration: none;
 }
 
+/* this class is to mirror the style of the previously used shadow boxes but a little bit wider. */
 footer {
         padding-top: 10px;
         padding-bottom: 10px;
