@@ -12,10 +12,10 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
  - Navigation Menu
 
- - Featured on all four pages, the Navigation Menu includes links to each of the clans and key people and technologies in the battle, and is identical in each page to allow for easy navigation.
+ - Featured on all four pages, is the Navigation Menu includes links to each of the clans and key people and technologies in the battle, and is identical in each page to allow for easy navigation.
  - It will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
  - The color scheme I used was to make it easy to read and also to make it feel unique.
- - The background image is an illustration of the battle of nagashino I used it because its bigger than most device resolutions and brings the site to life a bit more.
+ - The background image is an illustration of the battle of Nagashino I used it since its bigger than most device resolutions and brings the site to life a bit more.
   
 <img src="documentation/battleofnagashino.png" alt="Battle of Nagashino Landing Page" width="75%"/>
 
@@ -27,11 +27,11 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
 ### Features Left to Implement
 
-I would have liked the background image to have been a bit more zoomed out to take adavantage of more high resolution displays.
+I would have liked the background image to have been a bit more zoomed out to take advantage of more high resolution displays.
 
 ## Testing 
 
-I tested this site on an iPhone 12 and a Lenovo ideapad and I also used the below mentioned validators which reminded me to put in the alt text with images.
+I tested this site on an iPhone 12 and a Lenovo laptop and I also used the below mentioned validators which prompted me to put in the alt text with images.
 
 ### Validator Testing 
 
@@ -42,7 +42,7 @@ I tested this site on an iPhone 12 and a Lenovo ideapad and I also used the belo
 
 ### Unfixed Bugs
 
- - On a touchscreen device when you tap on the menu button but don't go to a link in the menu its hard to close the menu.
+ - On a touchscreen device when you tap on the menu button but don't go to a link in the menu its unclear as to how to close the menu.
 
 ## Deployment
 
