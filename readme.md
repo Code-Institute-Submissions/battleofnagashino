@@ -6,7 +6,7 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
 ## Wireframe
 
-<img src="documentation/sitewireframe.png" width="75%"/> <img src="documentation/phonewireframe.png" width="75%"/>
+<img src="documentation/sitewireframe.png" width="75%"/> <img src="documentation/phonewireframe.png" width="50%"/>
 
 ## Features 
 
