@@ -12,12 +12,14 @@ body {
   max-width: 920px;
   margin: auto;
 }
+
 /* this class is to make citation links small so they aren't distracting similar to wikipedia.org. */
 .cite {
   font-size: 0.65em;
   color: white;
   text-decoration: none;
 }
+
 /* this class is for the smaller images contained in the shadowbox and to keep the text from flowing over the image. */
 .smallimg {
   margin: 6px;
@@ -62,6 +64,7 @@ textarea {
   font-family: Verdana;
   outline: none;
 }
+
 input {
   border-radius: 4px;
   font-size: 0.93em;
@@ -101,6 +104,7 @@ input {
   border-radius: 4px;
   box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
 }
+
 .contactbtn {
   background-color: #555;
   color: white;
