@@ -10,18 +10,20 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
 ## UX 
 
- - Featured on all five pages, is the Navigation Menu includes links to each of the families and key people and technologies in the battle, and is identical in each page to allow for easy navigation.
+ - Featured on all five pages, is the Navigation Menu includes links to each of the clans and key people and technologies in the battle, and is identical in each page to allow for easy navigation.
  - It will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
- - The color scheme I used was to make it easy to read and also to make it feel unique.
- - The background image is an illustration of the battle of Nagashino I used it since its bigger than most device resolutions and brings the site to life a bit more.
  
- ### Icons 
+ ## Icons 
 
 - The icons used in the menu button and contact button and footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Colors
 
 - I chose the colors on my site to be neutral and not to distract from the imagery or text itself.
+
+## Imagery
+
+- The background image is an illustration of the battle of Nagashino. I used it since its bigger than most device resolutions and brings the site to life a bit more. Using a feature of css the background image stays in place as you scroll and gives the site a 3 dimensional aspect.
 
 ## Sources
 
