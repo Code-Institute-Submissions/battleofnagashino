@@ -58,7 +58,6 @@ form {
 
 .shadowform {
   max-width: 410px;
-  min-width: 410px;
   border: 1px solid black;
   background-color: #555;
   margin: 20px auto;
