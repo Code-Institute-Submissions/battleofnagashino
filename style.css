@@ -48,20 +48,32 @@ article {
   color: white;
   text-shadow: 3px 3px rgba(0, 0, 0, 0.8);
 }
+
 form {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-size: 0.93em;
   text-align: center;
 }
 
+textarea {
+  border-radius: 4px;
+  font-size: 0.93em;
+  font-family: Verdana;
+  outline: none;
+}
+input {
+  border-radius: 4px;
+  font-size: 0.93em;
+  font-family: Verdana;
+  outline: none;
+}
+
 .sendbtn {
-  transition-duration: 0.3s;
   background-color: #e7e7e7;
   color: black;
   border: none;
+  padding: 4px;
   font-size: 14px;
   text-align: center;
   text-decoration: none;
@@ -69,33 +81,11 @@ form {
   border-radius: 2px;
 }
 
-.sendbtn:hover {
-  background-color: #e6e6e6;
-  color: black;
-}
-
-textarea {
-  border-radius: 4px;
-  font-size: 0.93em;
-  font-family: Verdana;
-}
-
 /* This class is to make the content box and surrounding shadow and rounded corners. */
 .shadowbox {
   border: 1px solid black;
   background-color: #555;
   margin: 20px;
-  box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
-  border-radius: 8px;
-}
-.shadowform {
-  border: 1px solid black;
-  background-color: #555;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-right: 180px;
-  padding-left: 180px;
-  margin: 0;
   box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
   border-radius: 8px;
 }
