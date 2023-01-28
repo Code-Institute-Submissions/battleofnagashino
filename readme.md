@@ -10,24 +10,29 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
 ## UX
 
-- Featured on all five pages, is the Navigation Menu includes links to each of the clans and key people and technologies in the battle, and is identical in each page to allow for easy navigation.
+- You'll see the Navigation Button and Menu on all five pages, containing the links to each of the clans and key people and technologies in the battle, and is identical in each page to allow for easy navigation.
+- On every page youll find the contact button which will take you to the contact form page.
 - It will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ## Icons
 
 - The icons used in the menu button and contact button and footer were taken from [Font Awesome](https://fontawesome.com/)
 
+## Font
+
+- I used Futura and Verdana fonts because they looked most pleasing to my eye and didn't need the use of some external font library.
+
 ## Colors
 
 - I chose the colors on my site to be neutral and not to distract from the images or text itself.
 
-## Imagery
-
-- The background image is an illustration of the battle of Nagashino. I used it since its bigger than most device resolutions and brings the site to life a bit more. Using a feature of css the background image stays in place as you scroll and gives the site a 3 dimensional aspect.
-
 ## Sources
 
 - The sources used for my site were from Wikipedia and other websites covering this historical event which are all cited in my site.
+
+## Imagery
+
+- The background image is an illustration of the battle of Nagashino. I used it since its bigger than most device resolutions and brings the site to life a bit more. Using a feature of css the background image stays in place as you scroll and gives the site a 3 dimensional aspect.
 
 <img src="documentation/battleofnagashino.png" alt="Battle of Nagashino Landing Page" width="75%"/>
 
@@ -66,4 +71,4 @@ I tested this site on an iPhone 12 and a Lenovo laptop and I also used the below
 
 ## Credits
 
-- Most of the images for the site came from wikimedia commons or wikipedia.org.
+- Most of the images for the site came from Wikimedia commons or Wikipedia.
