@@ -85,7 +85,7 @@ input {
   color: black;
   border: none;
   padding: 4px;
-  font-size: 16px;
+  font-size: 14px;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -117,6 +117,7 @@ input {
   color: white;
   float: right;
   padding: 12px;
+  font-size: 16px;
   border: none;
   cursor: pointer;
   border-radius: 4px;
