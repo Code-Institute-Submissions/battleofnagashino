@@ -1,6 +1,6 @@
 /* this class is to apply an image to the background of the site and under that a color and also to hold the image in place when you scroll unfortunately this isn't supported on iOS. */
 html {
-  font-family: Futura;
+  font-family: Futura, Verdana;
   background: url(images/battleofnagashinoinfull.jpg);
   background-color: #555;
   background-position: left center;
