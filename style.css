@@ -31,7 +31,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  border: 1px solid black;
   box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
   border-radius: 8px;
 }
@@ -58,7 +57,6 @@ form {
 
 .shadowform {
   max-width: 410px;
-  border: 1px solid black;
   background-color: #555;
   margin: 20px auto;
   box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
@@ -94,7 +92,6 @@ input {
 
 /* This class is to make the content box and surrounding shadow and rounded corners. */
 .shadowbox {
-  border: 1px solid black;
   background-color: #555;
   margin: 20px;
   box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
@@ -174,7 +171,6 @@ footer a:active {
 footer {
   padding-top: 10px;
   padding-bottom: 10px;
-  border: 1px solid black;
   background-color: #555;
   margin: 15px;
   text-shadow: 3px 3px rgba(0, 0, 0, 0.8);
