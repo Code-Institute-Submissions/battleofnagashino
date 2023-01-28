@@ -89,7 +89,7 @@ input {
   text-align: center;
   text-decoration: none;
   cursor: pointer;
-  border-radius: 2px;
+  border-radius: 1px;
 }
 
 /* This class is to make the content box and surrounding shadow and rounded corners. */
@@ -106,7 +106,7 @@ input {
   color: white;
   padding: 12px;
   font-size: 16px;
-  border: 1px solid black;
+  border: none;
   cursor: pointer;
   border-radius: 4px;
   box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
@@ -117,7 +117,7 @@ input {
   color: white;
   float: right;
   padding: 12px;
-  border: 1px solid black;
+  border: none;
   cursor: pointer;
   border-radius: 4px;
   box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
