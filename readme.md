@@ -6,7 +6,7 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
 ## Wireframe
 
-<img src="documentation/sitewireframe.png" width="60%"/> <img src="documentation/phonewireframe.png" width="25%"/>
+<img src="assets/documentation/sitewireframe.png" width="60%"/> <img src="assets/documentation/phonewireframe.png" width="25%"/>
 
 ## UX
 
@@ -34,13 +34,13 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
 - The background image is an illustration of the battle of Nagashino. I used it since its bigger than most device resolutions and brings the site to life a bit more. Using a feature of css the background image stays in place as you scroll and gives the site a 3 dimensional aspect.
 
-<img src="documentation/battleofnagashino.png" alt="Battle of Nagashino Landing Page" width="75%"/>
+<img src="assets/documentation/battleofnagashino.png" alt="Battle of Nagashino Landing Page" width="75%"/>
 
-<img src="documentation/takeda.png" alt="Takeda Clan page" width="75%"/>
+<img src="assets/documentation/takeda.png" alt="Takeda Clan page" width="75%"/>
 
-<img src="documentation/odatokugawa.png" alt="Oda and Tokugawa Clan page" width="75%"/>
+<img src="assets/documentation/odatokugawa.png" alt="Oda and Tokugawa Clan page" width="75%"/>
 
-<img src="documentation/tanegashima.png" alt="Tanegashima page" width="75%"/>
+<img src="assets/documentation/tanegashima.png" alt="Tanegashima page" width="75%"/>
 
 ### Features Left to Implement
 
