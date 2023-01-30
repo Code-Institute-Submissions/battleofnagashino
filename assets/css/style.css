@@ -1,7 +1,7 @@
 /* this class is to apply an image to the background of the site and under that a color and also to hold the image in place when you scroll unfortunately this isn't supported on iOS. */
 html {
   font-family: Futura, Verdana;
-  background: url(images/battleofnagashinoinfull.jpg);
+  background: url(assets/images/battleofnagashinoinfull.jpg);
   background-color: #555;
   background-position: left center;
   background-attachment: fixed;
@@ -33,6 +33,7 @@ body {
   width: 80%;
   box-shadow: 0 0 0.5em 0.5em rgba(0, 0, 0, 0.5);
   border-radius: 8px;
+  border: 1px solid black;
 }
 
 p {
