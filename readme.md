@@ -55,17 +55,17 @@ I tested this site on an iPhone 12 and a Lenovo laptop and I also used the below
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkermetically.github.io%2Fbattleofnagashino%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [CSS validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fkermetically.github.io%2Fbattleofnagashino%2Fstyle.css&usermedium=all&vextwarning=&warning=1)
+  - No errors were found when passing through the official [CSS validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fkermetically.github.io%2Fbattleofnagashino%2Fassets%2Fcss%2Fstyle.css&usermedium=all&vextwarning=&warning=1)
 
 ### Known Bugs
 
 - On a touchscreen device when you tap on the menu button but don't go to a link in the menu its unclear as to how to close the menu.
-- The images could be compressed but I didnt want to reduce the quality of the images
+- The images could be compressed but I didn't want to reduce the quality of the images.
 
 ## Deployment
 
 - The site was deployed to GitHub pages.
-- I used Notepad to type out my code and then Visual Studio and the Prettier extension to basically remove witespace.
+- I used Notepad to type out my code and then Visual Studio and the Prettier extension to remove witespace.
 - w3schools.com was a useful resource and helped with making the navgation button menu and CSS box and shadows.
 - I used Balsamiq to make the wireframes.
 
