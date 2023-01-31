@@ -63,6 +63,7 @@ I tested this site on an iPhone 12 and a Lenovo laptop and I also used Lighthous
 ### Known Bugs
 
 - On a touchscreen device when you tap on the menu button but don't go to a link in the menu its unclear as to how to close the menu but if you tap on an image that works.
+- I had to put the sites background image in assets/css with the stylesheet because that was the only way the image would load.
 - The images are big and could be compressed but I didn't want to reduce the quality of the images.
 
 ## My Deployment
