@@ -1,3 +1,11 @@
+/* this is to change the citation link color on hover.*/
+@media (hover: hover) {
+.cite:hover {
+  color: crimson;
+  transition-duration: 0.5s;
+  }
+}
+
 /* this class is to apply an image to the background of the site and under that a color and also to hold the image in place when you scroll unfortunately this isn't supported on iOS. */
 html {
   font-family: Futura, Verdana;
@@ -12,12 +20,14 @@ body {
   max-width: 920px;
   margin: auto;
 }
+
 /* this class is to make citation links small so they aren't distracting similar to wikipedia.org. */
 .cite {
   font-size: 0.65em;
   color: white;
   text-decoration: none;
 }
+
 /* this class is for the smaller images contained in the shadowbox and to keep the text from flowing over the image. */
 .smallimg {
   margin: 6px;
