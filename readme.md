@@ -42,6 +42,9 @@ The Battle of Nagashino is a site where you can learn about the events of the ba
 
 <img src="assets/documentation/tanegashima.png" alt="Tanegashima page" width="75%"/>
 
+<img src="assets/documentation/contact.png" alt="Contact page" width="75%"/>
+
+
 ### Features Left to Implement
 
 I would have liked the background image to have been a bit more zoomed out to take advantage of more high resolution displays.
@@ -59,15 +62,21 @@ I tested this site on an iPhone 12 and a Lenovo laptop and I also used the below
 
 ### Known Bugs
 
-- On a touchscreen device when you tap on the menu button but don't go to a link in the menu its unclear as to how to close the menu.
-- The images could be compressed but I didn't want to reduce the quality of the images.
+- On a touchscreen device when you tap on the menu button but don't go to a link in the menu its unclear as to how to close the menu but if you tap on an image that works.
+- The images are big and could be compressed but I didn't want to reduce the quality of the images.
 
-## Deployment
+## My Deployment
 
 - The site was deployed to GitHub pages.
 - I used Notepad to type out my code and then Visual Studio and the Prettier extension to remove witespace.
-- w3schools.com was a useful resource and helped with making the navgation button menu and CSS box and shadows.
 - I used Balsamiq to make the wireframes.
+- w3schools.com was a useful resource and helped with making the navgation button menu and CSS box and shadows.
+
+## Local Deployment
+
+1. Make a copy via the command line or terminal using git clone https://github.com/kermetically/battleofnagashino.git
+
+2. Open index.html in your preferred browser.
 
 ## Credits
 
