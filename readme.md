@@ -74,7 +74,7 @@ I tested this site on an iPhone 12 and a Lenovo laptop and I also used the below
 
 ## Local Deployment
                                                      
-1. Make a copy via the command line or terminal
+1. Make a copy via the command line or terminal.
 ```
 git clone https://github.com/kermetically/battleofnagashino.git
 ```
@@ -82,4 +82,4 @@ git clone https://github.com/kermetically/battleofnagashino.git
 
 ## Credits
 
-- Most of the images for the site came from Wikimedia commons or Wikipedia.
+- Most of the images for the site came from Wikimedia Commons or Wikipedia.
