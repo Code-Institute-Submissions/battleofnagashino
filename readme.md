@@ -51,7 +51,7 @@ I would have liked the background image to have been a bit more zoomed out to ta
 
 ## Testing
 
-I tested this site on an iPhone 12 and a Lenovo laptop and I also used the below mentioned validators which prompted me to put in the alt text with images.
+I tested this site on an iPhone 12 and a Lenovo laptop and I also used Lighthouse in Google Chrome which prompted me to put in the alt text with images and aria labels on buttons.
 
 ### Validator Testing
 
