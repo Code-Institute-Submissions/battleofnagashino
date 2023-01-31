@@ -73,9 +73,11 @@ I tested this site on an iPhone 12 and a Lenovo laptop and I also used the below
 - w3schools.com was a useful resource and helped with making the navgation button menu and CSS box and shadows.
 
 ## Local Deployment
-                                                      ```
-1. Make a copy via the command line or terminal using git clone https://github.com/kermetically/battleofnagashino.git
-                                                      ```
+                                                     
+1. Make a copy via the command line or terminal
+```
+git clone https://github.com/kermetically/battleofnagashino.git
+```
 2. Open index.html in your preferred browser.
 
 ## Credits
